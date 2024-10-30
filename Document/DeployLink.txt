@@ -1,0 +1,8 @@
+backend docker image:
+    pull docker image: docker image pull cvtai/ia-03
+
+backend url: https://ia-03-latest.onrender.com      (wait for 1 minute to when first fetch api, because of free service)
+client url: https://ia03frontend.vercel.app/
+database connection string: "postgres://default:3Qkce7WuiHDo@ep-summer-mode-a1edo8x9.ap-southeast-1.aws.neon.tech:5432/verceldb?sslmode=require"
+
+

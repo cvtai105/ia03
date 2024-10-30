@@ -1,0 +1,15 @@
+Grade: 10/10
+
+Watch video demo: https://www.youtube.com/watch?v=IXxCA7uBWes
+
+Backend Implementation: 100%
+    API Endpoints: 2 points.
+    Error Handling: 2 points.
+
+Frontend Implementation: 100%
+    Routing: 1 point
+    API Integration: 2 point
+    User Experience: 2 point
+    
+Public host deployment: 100%
+    1 point
